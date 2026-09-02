@@ -23,11 +23,7 @@ overflow: auto;
 width: 80%;}
 body {background-image: url("han.gif"); color:#FA8072; font-family: Verdana, "Times new roman", sans-serif;
 background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
-header {background-image: url("V2.gif"); background-color: #00FFFF; color:#F8F8FF; 
-background-repeat: no-repeat; background-size: cover;
- background-position: center;
- border-bottom: 3px outset #F8F8FF; text-indent: 1em; font-size: 3em; 
-padding-top: 30px; margin-left: 0; }
+header {background-image: url("V2.gif"); background-color: #00FFFF; color: #F8F8FF;background-repeat: no-repeat; background-size: cover; background-position: center; border-bottom: 3px outset #F8F8FF; text-indent: 1em; font-size: 3em; height: 300px; padding-top: 30px; margin-left: 0;}
  h2,h3, h4, h5, h6,h7 {font-family: Georgia, "Times new roman", sans-serif; 
 color: #F8F8FF; text-shadow: 3px 3px 3px #676767; text-align: center; font-size: 2em;}
 nav {font-weight: bold; font-size: 1.25em; background-color:#FDF5E6;
