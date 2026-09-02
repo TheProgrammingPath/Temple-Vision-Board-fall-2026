@@ -31,7 +31,7 @@ text-align: center;}
 nav a {text-align: center; color:#20B2AA;}
 main {background-color:#004D99; background-image: url("V3.gif");
 background-size: 100% 100%; color:#FF4500; padding: 0.5em; background-repeat: no-repeat;
-background-attachment: fixed; backround-size: cover;}
+background-attachment: fixed; background-size: cover;}
 p {font-family: Trojan pro, Arial; text-indent: 2em; color:#F8F8FF; font-size: 1.5em;
 text-shadow: 3px 3px 3px #676767;}
 footer {font-style: italic; font-weight: bold; color:#20B2AA; background-color:#FDF5E6;}
