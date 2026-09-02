@@ -1,0 +1,47 @@
+#container {background-color: #000000; margin-left: auto;
+margin-right: auto; width: 80%; min-width: 640px; max-width: 1280px;
+box-shadow: 5px 5px 5px #1E1E1E; border: 1px solid #000033;}
+.dashedboarder {background-color: #FFEFD5; border-width: 3px;
+border-style: outset;
+border-color: #F8F8FF;
+border: 3px outset #F8F8FF;}
+h1 { padding-left: 60px; text-shadow:3px 3px 3px #676767;
+ text-align: center; font-size: 2em; padding: 5px; color:#FF6347;}
+padding: 5px 20px;
+border-top-left-radius: 90px;
+border-bottom-left-radius: 90px;
+border-radius: 15px;}
+#yls { float: right;
+margin: 0 0 5px 5px;
+border: 1px solid #000000;}
+.float {float: left;
+width: 80%;
+padding: 10px;}
+.clearleft {clear: left;}
+.div {background-color:#F3F1BF;
+overflow: auto;
+width: 80%;}
+body {background-image: url("han.gif"); color:#FA8072; font-family: Verdana, "Times new roman", sans-serif;
+background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
+header {background-image: url("v2.gif"); background-color: #00FFFF; color:#F8F8FF; 
+background-repeat: no-repeat; background-size: cover;
+ background-position: center;
+ border-bottom: 3px outset #F8F8FF; text-indent: 1em; font-size: 3em; 
+padding-top: 30px; margin-left: 0; }
+ h2,h3, h4, h5, h6,h7 {font-family: Georgia, "Times new roman", sans-serif; 
+color: #F8F8FF; text-shadow: 3px 3px 3px #676767; text-align: center; font-size: 2em;}
+nav {font-weight: bold; font-size: 1.25em; background-color:#FDF5E6;
+text-align: center;}
+nav a {text-align: center; color:#20B2AA;}
+main {background-color:#004D99; background-image: url("V3.gif");
+background-size: 100% 100%; color:#FF4500; padding: 0.5em; background-repeat: no-repeat;
+background-attachment: fixed; backround-size: cover;}
+p {font-family: Trojan pro, Arial; text-indent: 2em; color:#F8F8FF; font-size: 1.5em;
+text-shadow: 3px 3px 3px #676767;}
+footer {font-style: italic; font-weight: bold; color:#20B2AA; background-color:#FDF5E6;}
+ul {color:#20B2AA; list-style-type: square; font-weight: bold; 
+text-shadow:3px 3px 3px #676767;}
+#floatright { float: right; margin: 10px; }
+.Artesian { color:#191790; }
+
+
